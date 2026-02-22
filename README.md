@@ -59,6 +59,7 @@ git clone https://github.com/thisdikomahendar19-ui/aplikasi-KasirApp-Pbo-DicoMah
 3. Klik **File → Open Project**
 4. Arahkan ke folder hasil clone tadi
 5. Klik **Run Project** (tombol ▶️ hijau) atau tekan `F6`
+6. untuk password dan usernya admin/admin123
 
 ---
 
